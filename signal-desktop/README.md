@@ -32,12 +32,12 @@ cd Signal-Desktop
 
 4. Install yarn
 ```
-npm install —global yarn
+npm install --global yarn
 ```
 
 5. Install & build with yarn
 ```
-yarn install —frozen-lockfile
+yarn install --frozen-lockfile
 ```
 
 6. Generate final JS & CSS
